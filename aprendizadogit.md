@@ -21,3 +21,5 @@ Aí o Pull Request e o Merge são feito normalmente no GitHub mesmo.
 Dicionário:
 
 diff = different, mostra as diferenças entre os commit
+-c 
+-m 
